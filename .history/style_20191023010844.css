@@ -1,16 +1,9 @@
 body{
 background: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80) no-repeat;
 background-size: cover;
-background-position: 50% 40%;
 }
 
 .container{
     text-align: center;
     padding-top: 20%;
-    color: aliceblue;
-}
-
-hr{
-    border: 1px solid rgb(250, 247, 247);
-    width: 400px;
 }
